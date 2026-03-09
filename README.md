@@ -74,7 +74,7 @@ Dashboard components:
 
 ## Dashboard
 
-![Pennsylvania Hospital Dashboard] (Tableau_Dashboard)
+![Pennsylvania Hospital Dashboard] (Tableau_Dashboard.png)
 
 ### Key Insights
 
